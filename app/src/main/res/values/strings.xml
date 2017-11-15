@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Good Listener</string>
+    <string name="pref_key_scroll">pref_auto_scroll</string>
+    <string name="pref_title_scroll">Auto-scroll</string>
+    <string name="pref_summary_scroll_on">Auto-scroll to bottom on updates</string>
+    <string name="pref_summary_scroll_off">Don\'t auto-scroll</string>
+    <string name="settings">Settings</string>
+</resources>
